@@ -4,7 +4,6 @@ var img = document.getElementById('img')
 var msg = document.querySelector('#msg')
 var corpo = document.querySelector('.corpo')
 
-hora = 1
 
 
 
